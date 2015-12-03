@@ -1,1 +1,2 @@
 Kaminstein = http://www.textures.com/download/brickfacade0027/82651
+Wandtattoo = http://www.deine-wandtattoos.de/imageupload/12082537/12082537.png
